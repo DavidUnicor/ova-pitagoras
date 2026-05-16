@@ -9,7 +9,7 @@
         EQUIPO DE DESARROLLO
       </v-chip>
       <h1 class="text-h2 font-weight-black text-white">
-        Creadores del Proyecto
+        Creadores del Trabajo
       </h1>
       <p class="text-h6 text-white opacity-80 mt-2 font-weight-light">
         Universidad de Córdoba - Licenciatura en Informática
